@@ -93,7 +93,7 @@ I enjoy experimenting, breaking things, fixing them, and learning along the way.
   <a href="YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge" alt="Portfolio" />
   </a>
-  <a href="linkedin.com/in/divit-jain-80b060242">
+  <a href="[linkedin.com/in/divit-jain-80b060242](https://www.linkedin.com/in/divit-jain-80b060242/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:divit26indore@gmail.com">
