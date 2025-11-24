@@ -114,7 +114,7 @@ I enjoy experimenting, breaking things, fixing them, and learning along the way.
 ## Fun GIF
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" width="300" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xueWxzamJnYm95Y20wbDd0MG45am92NDVsM25ucHZqemoya21vciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="300" />
 </div>
 
 ---
