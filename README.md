@@ -7,7 +7,7 @@ Most of my projects revolve around clean UI, practical features, and trying out 
 
 ---
 
-## 🔭 What I’m currently exploring
+## What I’m currently exploring
 
 - Building better, faster, cleaner web apps
 - Learning how to use machine learning in real-world products
@@ -16,16 +16,16 @@ Most of my projects revolve around clean UI, practical features, and trying out 
 
 ---
 
-## 🧩 How I like to work
+## How I like to work
 
 I prefer simple architecture, readable code, and tools that help me move fast.  
 I enjoy experimenting, breaking things, fixing them, and learning along the way.
 
 ---
 
-## ⚙️ **Tech Stack**
+## **Tech Stack**
 
-### 🎨 **Frontend**
+### **Frontend**
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -34,7 +34,7 @@ I enjoy experimenting, breaking things, fixing them, and learning along the way.
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-### 🛠️ **Backend**
+### **Backend**
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -42,7 +42,7 @@ I enjoy experimenting, breaking things, fixing them, and learning along the way.
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
-### 🤖 **Machine Learning**
+### **Machine Learning**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -51,14 +51,14 @@ I enjoy experimenting, breaking things, fixing them, and learning along the way.
   <img src="https://img.shields.io/badge/TF--IDF-2E7D32?style=for-the-badge"/>
 </p>
 
-### 🗄️ **Database**
+### **Database**
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
 </p>
 
-### 🧰 **Tools**
+### **Tools**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
@@ -70,7 +70,7 @@ I enjoy experimenting, breaking things, fixing them, and learning along the way.
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DivitJain26&show_icons=true&theme=tokyonight" height="160" />
@@ -79,7 +79,7 @@ I enjoy experimenting, breaking things, fixing them, and learning along the way.
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivitJain26&theme=tokyonight" />
@@ -87,7 +87,7 @@ I enjoy experimenting, breaking things, fixing them, and learning along the way.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="YOUR_PORTFOLIO_URL">
@@ -103,7 +103,7 @@ I enjoy experimenting, breaking things, fixing them, and learning along the way.
 
 ---
 
-## 🎯 Learning & Goals
+## Learning & Goals
 
 - Improve accuracy of AI-driven toxicity detection
 - Production ML deployment with scaling and monitoring
@@ -111,7 +111,7 @@ I enjoy experimenting, breaking things, fixing them, and learning along the way.
 
 ---
 
-## ⚡ Fun GIF
+## Fun GIF
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" width="300" />
