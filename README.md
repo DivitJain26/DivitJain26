@@ -91,13 +91,13 @@ I enjoy experimenting, breaking things, fixing them, and learning along the way.
 ## Connect With Me
 
 <div align="center">
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://divit-jain.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="[linkedin.com/in/divit-jain-80b060242](https://www.linkedin.com/in/divit-jain-80b060242/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:divit26indore@gmail.com">
+  <a href="mailto:divit26j@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
