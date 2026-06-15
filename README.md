@@ -1,6 +1,6 @@
 # Hi, I'm **Divit Jain**
 
-![](https://komarev.com/ghpvc/?username=DivitJain26)
+![](https://komarev.com/ghpvc/?username=DivitJain26&color=7ef63&style=for-the-badge)
 
 ### Full-Stack Developer • ML Learner • Tech Explorer
 
