@@ -1,5 +1,7 @@
 # Hi, I'm **Divit Jain**
 
+![](https://komarev.com/ghpvc/?username=DivitJain26)
+
 ### Full-Stack Developer • ML Learner • Tech Explorer
 
 I enjoy building useful things on the internet — from full-stack web apps to small ML experiments.  
